@@ -1,0 +1,62 @@
+input{
+    margin: 9.1px;
+}
+body{
+
+margin: 0px;    background-color: black;
+position: relative;
+z-index: 1;
+}
+.for{
+    
+    width: 60%;
+    background-color: rgb(0, 0, 0);
+    padding: 5px;
+    margin: 100px auto;
+    border: gray 20px solid;
+    
+   
+}
+tr{
+    border: 20px gray solid;
+}
+td{
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.cs input{
+    width: 17%;
+    margin-left: 22px;
+} 
+.hid{
+    visibility: hidden;
+
+    
+}
+span{
+    
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    top:-1000;
+    z-index: -10;
+}
+p{
+    
+   
+}
+.tn{
+    padding-left: 10px;
+}
+table{
+    background-color: black;
+}
+.btnn{
+    background-color: black;
+    color: white;
+    border-top: gray 10px solid ;
+}
+
+
+    
